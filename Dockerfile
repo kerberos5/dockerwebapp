@@ -1,5 +1,5 @@
 FROM node:8
-
+MAINTAINER Daniele Trabucco <trb.dnl@gmail.com>
 # Create app directory
 WORKDIR /usr/src/app
 
